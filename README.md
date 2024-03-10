@@ -11,3 +11,19 @@ m represents the slope of the line and
 x is the independent variable (the variable we use to make predictions)
 
 b represents the intercept, is another way to represent linear regression.
+
+(Thats how it works)
+
+reg.predict([[2000]])
+
+y=mx+b
+
+y = 1.33429499*2000+689.2562730862312 
+
+y = 3357.8462530862316
+
+m = coefficient
+
+x = 2000
+
+b = intercept
